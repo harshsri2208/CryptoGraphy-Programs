@@ -1,0 +1,7 @@
+XOR of character a with 127 = 30
+XOR of character b with 127 = 29
+XOR of character c with 127 = 28
+XOR of character d with 127 = 27
+XOR of character e with 127 = 26
+
+Encrypted String = 

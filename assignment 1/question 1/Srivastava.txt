@@ -1,7 +1,18 @@
+XOR of character H with 127 = 55
 XOR of character a with 127 = 30
-XOR of character b with 127 = 29
-XOR of character c with 127 = 28
-XOR of character d with 127 = 27
-XOR of character e with 127 = 26
+XOR of character r with 127 = 13
+XOR of character s with 127 = 12
+XOR of character h with 127 = 23
+XOR of character   with 127 = 95
+XOR of character S with 127 = 44
+XOR of character r with 127 = 13
+XOR of character i with 127 = 22
+XOR of character v with 127 = 9
+XOR of character a with 127 = 30
+XOR of character s with 127 = 12
+XOR of character t with 127 = 11
+XOR of character a with 127 = 30
+XOR of character v with 127 = 9
+XOR of character a with 127 = 30
 
-Encrypted String = 
+Encrypted String = 7_,		

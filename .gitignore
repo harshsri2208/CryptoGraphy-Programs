@@ -1,2 +1,5 @@
-setup
-eclipse workspace
+setup/
+eclipse workspace/
+
+*.zip
+*.class

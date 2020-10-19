@@ -1,0 +1,6 @@
+Plain Text = We live in an insecure world
+Key = 
+3 2 
+5 7 
+encrypted string = wi xhtd yb an ybkouuhj qavgdu
+decrypted string = we live in an insecure worldx

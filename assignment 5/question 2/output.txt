@@ -1,0 +1,2 @@
+General solution for 14x = 12(mod 18)
+x = 9k + 6

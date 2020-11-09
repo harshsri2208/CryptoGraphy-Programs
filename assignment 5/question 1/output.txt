@@ -1,0 +1,1 @@
+Multiplicative inverse of 23 in the set z100 = 87

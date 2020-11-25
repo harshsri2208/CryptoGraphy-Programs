@@ -1,0 +1,2 @@
+solution for x2 = 7(mod 33)
+x = []
